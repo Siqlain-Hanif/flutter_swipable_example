@@ -1,1 +1,1 @@
-### Tinder like async inifite cards engine
+### Tinder like async infinite cards engine
